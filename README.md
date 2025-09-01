@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Offensive Security**
 - 💬 Ask me about **WebApplication** and **Android Security** 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him/../../../../etc/passwd
 - ❤️‍🔥 I Love playing **CTFs** and doing **Bug Bounties**🌐
 - ⚡ Fun fact: I can't hack your crush's account!
 
